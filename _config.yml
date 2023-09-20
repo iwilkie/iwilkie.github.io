@@ -1,0 +1,60 @@
+# site settings
+
+title: Isa Wilkie
+description: This page serves as my online CV
+taglong: Molecular ecology doctoral candidate, bioinformatician, scientist
+tagshort: Doctoral candidate, bioinformatician, scientist
+url: https://iwilkie.github.io/
+baseurl: ""
+permalink: pretty
+repo: https://github.com/iwilkie/iwilkie.github.io
+
+# author settings
+
+author:
+  name: Isa Wilkie
+  email: iwilkie@mpi-bremen.de
+photo: /assets/jpg/IMG_4269_cropped1.png #IMG_4450.jpeg IMG_4269.jpeg
+
+# social media links
+
+social:
+  github: iwilkie
+  linkedin: isabella-maria-wilkie-337a62162
+  twitter: isa_m_wilkie
+  orcid: 0000-0003-1072-8081
+  gitlab: iwilkie
+
+# build settings
+
+exclude:
+  - LICENSE
+  - README.md
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate-v2
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+whitelist:
+  - jekyll-sitemap
+
+sass:
+  sass_dir: _sass
+  style: compressed
+  sourcemap: never
+
+feed:
+  path: atom.xml
+
+autopages:
+  enabled: false
+
+pagination:
+  enabled: true
+  per_page: 1
+  sort_reverse: true
+  permalink: /:num/
+  title: ":title &middot; Page :num"
