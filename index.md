@@ -13,11 +13,10 @@ I graduated in 2020 with a BSc in Biochemistry and Cell Biology, along with a mi
 
 I continued my studies at the MPI, completing a Master’s in Marine Microbiology in 2022. For my MSc thesis, titled _“Exploring Niche Differentiation in Functionally Similar Heterotrophic Bacteria During Phytoplankton Spring Blooms”_, I worked under the supervision of **Dr. Luis H. Orellana**. Following that, I began my PhD project with him and **Prof. Dr. Rudolf Amann** in April 2022.
 
+To view a brief version of my CV, [click here](/cv_short.pdf).
+
 <!---
 ## CV
-
-To view my full CV, [click here](/cv). A print version is available [here](/cv.pdf).
-
 {% include contact.html %}
 
 ## My work...
